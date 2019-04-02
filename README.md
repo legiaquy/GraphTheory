@@ -45,10 +45,15 @@ To get the degree, first, we identify the id of the city with that name. That id
 ### Minimal Spanning Tree
 #### Prim Algorithm
 In this problem, we are using Graph and Vertex module from https://github.com/bnmnetp/pythonds. Then, we implement Prim algorithm:
+
 ![prim](https://i.imgur.com/vydGUfK.png)
+
 Here are the first 10 of 68 edges in the minimum spanning tree with total weight is 26038.6:
+
 ![prim_path](https://i.imgur.com/ZUyfaiu.png)
+
 And here is the Minimum Spanning Tree image using Prim:
+
 ![prim_img](https://i.imgur.com/v1pEaZ5.png)
 
 #### Kruskal Algorithm
