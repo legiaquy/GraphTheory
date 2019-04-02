@@ -46,7 +46,7 @@ To get the degree, first, we identify the id of the city with that name. That id
 #### Prim Algorithm
 In this problem, we are using Graph and Vertex module from https://github.com/bnmnetp/pythonds. Then, we implement Prim algorithm:
 ![prim](https://i.imgur.com/vydGUfK.png)
-Here are the first 10 of 68 edges in the minimum spanning tree:
+Here are the first 10 of 68 edges in the minimum spanning tree with total weight is 26038.6:
 ![prim_path](https://i.imgur.com/ZUyfaiu.png)
 And here is the Minimum Spanning Tree image using Prim:
 ![prim_img](https://i.imgur.com/v1pEaZ5.png)
@@ -56,6 +56,13 @@ And here is the Minimum Spanning Tree image using Prim:
 And here is the output:
 ![kruskal_path](https://i.imgur.com/EPL9xn5.png)
 
+#### Dijikstra Algorithm
+![dijkstra](https://i.imgur.com/gXCwnlj.png)
+And the output includes distance and paths
+![dijkstra_distance](https://i.imgur.com/Ln2mMii.png)
+![dijkstra_path](https://i.imgur.com/WSMsbhz.png)
+
+
 ## Conclusion
 - Done
     - Complete all the objectives
@@ -64,7 +71,6 @@ And here is the output:
     - Input and Output: not consistent
     - Spend a lot of time to re-modify
 - Future works:
-    - Dijikstra Algorithm
     - Unify the code
 
 
