@@ -58,13 +58,18 @@ And here is the Minimum Spanning Tree image using Prim:
 
 #### Kruskal Algorithm
 ![kruskal](https://i.imgur.com/yswXm6m.png)
+
 And here is the output:
+
 ![kruskal_path](https://i.imgur.com/EPL9xn5.png)
 
 #### Dijikstra Algorithm
 ![dijkstra](https://i.imgur.com/gXCwnlj.png)
+
 And the output includes distance and paths
+
 ![dijkstra_distance](https://i.imgur.com/Ln2mMii.png)
+
 ![dijkstra_path](https://i.imgur.com/WSMsbhz.png)
 
 
