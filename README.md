@@ -15,6 +15,7 @@ In this assignment, we do some exercises in Python that are relevant to Graph Th
 - Additional functions:
     - Degree function to return the degree of a particular city - a particular node
     - Prim and Kruskal Algorithms to find the Minimal spanning tree
+    - Dijkstra to find the shortest paths
     - Draw graph using networkx
 - Programming Language: Python
 
